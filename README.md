@@ -2,7 +2,7 @@
 
 ### Your Personal Register Bookshelf
 
-Designed in C# using the .NET MAUI and the GTK GUI, Bookshelf is a free, open-source and 
+Running under Windows, Android And IOS, and designed in C# using the .NET MAUI and the GTK GUI, Bookshelf is a free, open-source and 
 lightweight way to run your company more effectively by register customers, 
 be advised of deadlines and communicate with your customers quickly and easily.
 
